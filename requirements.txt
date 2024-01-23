@@ -3,4 +3,3 @@ pandas
 scikit-learn
 scikit-learn-extra
 matplotlib
-math
